@@ -29,10 +29,17 @@ The pipeline enables strategic analysis such as:
 *   **Customer Profiling:** Statistical summaries of approved vs. rejected applicants.
 
 ## 🚀 How to Run
-1.  Clone the repository.
-2.  Configure AWS credentials via `aws configure`.
-3.  Install dependencies: `pip install pandas boto3`.
-4.  Run the main script: `python migration.py`.
+1. Clone the repository.
+2. Configure AWS credentials locally via `aws configure`.
+3. Install the required libraries:
+   ```bash
+   pip install pandas boto3 notebook
+   ```
+4. Open the Jupyter Notebook:
+   ```bash
+   jupyter notebook migration_project.ipynb
+   ```
+5. Run the cells sequentially to see the data cleaning process and AWS migration.
 
 ---
 *Developed by an Engineering & Programming professional focused on Data Excellence.*
