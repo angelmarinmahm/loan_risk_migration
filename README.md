@@ -37,7 +37,7 @@ The pipeline enables strategic analysis such as:
    ```
 4. Open the Jupyter Notebook:
    ```bash
-   jupyter notebook migration_project.ipynb
+   jupyter notebook proyecto1.ipynb
    ```
 5. Run the cells sequentially to see the data cleaning process and AWS migration.
 
