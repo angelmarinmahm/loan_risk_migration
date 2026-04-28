@@ -40,6 +40,6 @@ The pipeline enables strategic analysis such as:
    jupyter notebook proyecto1.ipynb
    ```
 5. Run the cells sequentially to see the data cleaning process and AWS migration.
-
+You can view the full execution and results directly on GitHub's notebook preview.
 ---
 *Developed by an Engineering & Programming professional focused on Data Excellence.*
